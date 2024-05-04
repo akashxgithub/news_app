@@ -9,8 +9,8 @@ Tech Stack
 - NEWS API
 
 Features :
-1.News Categories
-2.Search Functionality
-3.Real-time Updates
-4.Article Details
-5.Performance Optimization
+- News Categories
+- Search Functionality
+- Real-time Updates
+- Article Details
+- Performance Optimization
